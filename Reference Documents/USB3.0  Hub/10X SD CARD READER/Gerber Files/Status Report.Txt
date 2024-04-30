@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [10X SD CARD READER.PrjPcb]
+   Generated File[10X SD CARD READER PCB-RoundHoles.TXT]
+   Generated File[10X SD CARD READER PCB-SlotHoles.TXT]
+   Generated File[10X SD CARD READER PCB.DRL]
+   Generated File[10X SD CARD READER PCB.LDP]
+   Generated File[10X SD CARD READER PCB.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 6:27:59 PM On 11/27/2023

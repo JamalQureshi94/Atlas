@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Austindetz_CM4_Board_v1.0.GBR   1/11/2024  8:44:12 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 02_GND1                                 
+.G2                 03_SIg1                                 
+.G3                 04_SIg2                                 
+.G4                 05_Pwr1                                 
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM3                BoardOutline                            
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

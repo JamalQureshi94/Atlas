@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Engrj\Desktop\Austindetz_CM4_Carrier_Design (Jan10,2024)\Altium Design Files\Austindetz_CM4_Board_v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=austindetz_cm4_board_v1.0-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=austindetz_cm4_board_v1.0-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Engrj\Desktop\[KornelBerne] 10XSDCardReader\Hardware Design\10X SD CARD READER\Alitum Design Files\10X SD CARD READER PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=10x sd card reader pcb-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=10x sd card reader pcb-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

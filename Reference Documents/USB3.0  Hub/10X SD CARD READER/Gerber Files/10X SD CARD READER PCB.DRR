@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 10X SD CARD READER PCB.PcbDoc   11/27/2023  6:27:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 10X SD CARD READER PCB-RoundHoles.TXT
+ASCII SlotHoles File : 10X SD CARD READER PCB-SlotHoles.TXT
+EIA File   : 10X SD CARD READER PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             12        PTH        13.34mm (0.53inch)
+T2      0.254mm (10mil)                                           Round             572       PTH        1719.63mm (67.70inch)
+T3      0.4mm (16mil)                                             Round             12        PTH        9.62mm (0.38inch)
+T4      0.5mm (20mil)                                             Slot              4         PTH        38.04mm (1.50inch)
+T5      0.889mm (35mil)                                           Round             6         PTH        12.70mm (0.50inch)
+T6      0.89mm (35mil)                                            Round             6         PTH        12.70mm (0.50inch)
+T7      1.1mm (43mil)                                             Round             37        PTH        282.04mm (11.10inch)
+T8      2.5mm (98mil)                                             Round             4         PTH        303.08mm (11.93inch)
+T9      0.65mm (26mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T10     0.65mm (26mil)                                            Slot              1         NPTH       0.30mm (0.01inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              655
+
+Total Processing Time (hh:mm:ss) : 00:00:00
